@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨🏻‍💻 Kauã Barboza
 
-<!--
-**kauabarboza260-cell/kauabarboza260-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front End`**
 
-Here are some ideas to get you started:
+Me chamo Kauã Gabriel Ferreira Barboza, tenho 18 anos, sou de São Paualo. Concluí no SENAI o curso técnico em Multimídia. Atualmente, estou cursando Ciência da Computação na Uninove. Sou apaixonado por tecnologia e tenho como meta me tornar um desenvolvedor full stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kauabarboza260-cell&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabarboza260-cell&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
